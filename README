@@ -1,0 +1,9 @@
+[DEMO LINK](https://andriyk0.github.io/canvas/);
+
+Dependencies Node v14.18.2 and higher NPM v6.14.5 and higher
+
+Instructions on how to run app: 
+-clone github repository 
+-Open VSCode and install Live server 
+-Open a project and click to Go Live from the status bar to turn the server on/off.
+-127.0.0.1:5500`/dist/` - add /dist to url
